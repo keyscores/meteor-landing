@@ -1,3 +1,7 @@
+#iphone{
+  animation-duration: 2s;
+}
+
 .carousel {
   width:    200px;
   position: relative;
