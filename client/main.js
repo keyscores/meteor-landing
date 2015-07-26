@@ -1,5 +1,5 @@
 Template.main.rendered = function() {
-  //this.$('#cbp-af-header').vide('desktop-keyscores');
+  //this.$('body').vide('desktop-keyscores');
   new WOW().init();
   $('#carousel1').slick({
     dots: false,
